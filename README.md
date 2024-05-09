@@ -15,4 +15,13 @@ Frontend
 ![Alt Text](https://drive.google.com/file/d/1I6q5NSf0lxASvv78Dsv_M_3G-Q8QLq46/view?usp=sharing)
 ![Alt Text](https://drive.google.com/file/d/1I6q5NSf0lxASvv78Dsv_M_3G-Q8QLq46/view?usp=sharing)
 
+## Features
+List out the key features of your application.
+
+The navbar for the project is sticky.
+
+The form will be validated as per the requirements.
+
+all the Carousell working with their functionality.
+
 
